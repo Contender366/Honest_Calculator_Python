@@ -1,0 +1,107 @@
+hyperskill_project:
+  id: 208
+  ide_files: https://hyperskill.org/api/projects/208/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Thu, 18 Sep 2025 08:42:41 UTC"
+stages:
+  - id: 1039
+    step: 15810
+    is_completed: false
+  - id: 1040
+    step: 15811
+    is_completed: false
+  - id: 1041
+    step: 15812
+    is_completed: false
+  - id: 1042
+    step: 15813
+    is_completed: false
+  - id: 1043
+    step: 15814
+    is_completed: false
+topics:
+  0:
+    - title: Computer algorithms
+      theory_id: 16547
+    - title: Flowcharts
+      theory_id: 14976
+    - title: Introduction to Python
+      theory_id: 5204
+    - title: Writing first program
+      theory_id: 5208
+    - title: Multi-line programs
+      theory_id: 5233
+    - title: Taking user's input
+      theory_id: 5913
+    - title: Program with numbers
+      theory_id: 5872
+    - title: If statement
+      theory_id: 5953
+    - title: Else statement
+      theory_id: 5932
+    - title: For loop
+      theory_id: 6065
+    - title: Importing modules
+      theory_id: 6019
+    - title: Class
+      theory_id: 6661
+    - title: Class instances
+      theory_id: 6669
+    - title: Methods
+      theory_id: 6931
+    - title: Elif statement
+      theory_id: 5926
+    - title: While loop
+      theory_id: 5940
+    - title: "Loop control: break, continue, pass"
+      theory_id: 6302
+    - title: Program execution
+      theory_id: 6047
+    - title: Errors
+      theory_id: 6052
+    - title: Exceptions
+      theory_id: 6042
+    - title: Built-in exceptions
+      theory_id: 11680
+    - title: Exception handling
+      theory_id: 6270
+    - title: Basic data types
+      theory_id: 5852
+    - title: Variables
+      theory_id: 5859
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 5865
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Declaring functions
+      theory_id: 5900
+    - title: Global vs local. Scopes
+      theory_id: 6322
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+    - title: String formatting
+      theory_id: 6037
+    - title: "Working with strings: basic methods"
+      theory_id: 6842
+    - title: Escape sequences
+      theory_id: 7130
+    - title: Splitting strings and joining lists
+      theory_id: 6972
+    - title: Type casting
+      theory_id: 6224
+  1:
+    - title: Functional decomposition
+      theory_id: 9571
+  4:
+    - title: Creating modules
+      theory_id: 6057
+    - title: Docstrings
+      theory_id: 11869
